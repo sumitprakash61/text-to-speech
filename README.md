@@ -1,13 +1,6 @@
 # 🔊 Android Text-to-Speech App
 
-[![Contributors][contributors-shield]][contributors-url]  
-[![Forks][forks-shield]][forks-url]  
-[![Stargazers][stars-shield]][stars-url]  
-[![Issues][issues-shield]][issues-url]  
 
-<p align="center">
-  <img src="https://github.com/sumitprakash61/text-to-speech/raw/main/assets/tts_logo.png" alt="Text-to-Speech Logo" width="200"/>
-</p>
 
 <h3 align="center" style="text-align:center">🔊 Android Text-to-Speech</h3>
 
